@@ -31,3 +31,7 @@
 - change all default credentials, ensure all accounts have set passwords and not accessible with default password/no password.
 - Look out for accounts with underscores, hypen, backdoors.
 - Memes are not graded unfortunately, show what you did, draw it if needed (gets points).
+
+## Resources
+- Windows Golden ticket
+- Silver Ticket
